@@ -1,5 +1,5 @@
 <a href="https://hhpluscertificateofcompletion.oopy.io/" target="_blank">
-  <img src="./항해 플러스 수료 인증서.png" 
+  <img src="./향해수료.png" 
        alt="항해 PLUS 수료 인증서" 
        style="max-width:600px; width:100%;" />
 </a>
