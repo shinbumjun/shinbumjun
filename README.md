@@ -1,7 +1,7 @@
 <!-- 1. 클릭 가능한 수료 인증서 카드 -->
 <p align="center">
   <a href="https://hhpluscertificateofcompletion.oopy.io/" target="_blank">
-    <img width="600" src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" alt="항해PLUS 백엔드 8기 수료 인증서"/>
+    <img width="300" src="https://static.spartacodingclub.kr/hanghae99/plus/completion/badge_purple.svg" alt="항해PLUS 백엔드 8기 수료 인증서"/>
   </a>
 </p>
 
