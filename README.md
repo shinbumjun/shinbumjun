@@ -16,7 +16,7 @@
 
 ### 🛠️ 습득 스킬
 
-<p align="center">
+<p align="left">
   <img alt="TDD"
        src="https://img.shields.io/badge/TDD-1E3A8A?style=plastic" />
   <img alt="Spring Boot"
@@ -26,7 +26,7 @@
   <img alt="JUnit"
        src="https://img.shields.io/badge/JUnit-2E7D32?style=plastic&logo=JUnit5" />
 </p>
-<p align="center">
+<p align="left">
   <img alt="클린 코드"
        src="https://img.shields.io/badge/클린_코드-1E3A8A?style=plastic" />
   <img alt="클린 아키텍처"
@@ -34,7 +34,7 @@
   <img alt="동시성 처리"
        src="https://img.shields.io/badge/동시성_처리-7E57C2?style=plastic" />
 </p>
-<p align="center">
+<p align="left">
   <img alt="Database"
        src="https://img.shields.io/badge/Database-7E57C2?style=plastic&logo=MySQL" />
   <img alt="Redis"
