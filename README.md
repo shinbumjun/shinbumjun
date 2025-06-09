@@ -14,22 +14,33 @@
 
 ---
 
-### 🛠️ Learned Skills
+### 🛠️ 습득 스킬
 
-<p>
-  <img alt="TDD"        src="https://img.shields.io/badge/TDD-00599C?style=flat-square" />
-  <img alt="SpringBoot" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square" />
-  <img alt="JPA"        src="https://img.shields.io/badge/JPA-000000?style=flat-square" />
-  <img alt="JUnit"      src="https://img.shields.io/badge/JUnit-25A162?style=flat-square" />
+<p align="center">
+  <img alt="TDD"
+       src="https://img.shields.io/badge/TDD-1E3A8A?style=plastic" />
+  <img alt="Spring Boot"
+       src="https://img.shields.io/badge/SpringBoot-2E7D32?style=plastic&logo=Spring" />
+  <img alt="JPA"
+       src="https://img.shields.io/badge/JPA-2E7D32?style=plastic" />
+  <img alt="JUnit"
+       src="https://img.shields.io/badge/JUnit-2E7D32?style=plastic&logo=JUnit5" />
 </p>
-<p>
-  <img alt="클린 코드"        src="https://img.shields.io/badge/클린_코드-0D47A1?style=flat-square" />
-  <img alt="클린 아키텍처"    src="https://img.shields.io/badge/클린_아키텍처-1565C0?style=flat-square" />
-  <img alt="동시성 처리"      src="https://img.shields.io/badge/동시성_처리-7E57C2?style=flat-square" />
+<p align="center">
+  <img alt="클린 코드"
+       src="https://img.shields.io/badge/클린_코드-1E3A8A?style=plastic" />
+  <img alt="클린 아키텍처"
+       src="https://img.shields.io/badge/클린_아키텍처-1E3A8A?style=plastic" />
+  <img alt="동시성 처리"
+       src="https://img.shields.io/badge/동시성_처리-7E57C2?style=plastic" />
 </p>
-<p>
-  <img alt="Database"   src="https://img.shields.io/badge/Database-263238?style=flat-square" />
-  <img alt="Redis"      src="https://img.shields.io/badge/Redis-DC382D?style=flat-square" />
-  <img alt="Kafka"      src="https://img.shields.io/badge/Kafka-000000?style=flat-square" />
-  <img alt="Monitoring" src="https://img.shields.io/badge/Monitoring-FFC107?style=flat-square" />
+<p align="center">
+  <img alt="Database"
+       src="https://img.shields.io/badge/Database-7E57C2?style=plastic&logo=MySQL" />
+  <img alt="Redis"
+       src="https://img.shields.io/badge/Redis-7E57C2?style=plastic&logo=Redis" />
+  <img alt="Kafka"
+       src="https://img.shields.io/badge/Kafka-7E57C2?style=plastic&logo=ApacheKafka" />
+  <img alt="Monitoring"
+       src="https://img.shields.io/badge/Monitoring-7E57C2?style=plastic&logo=Grafana" />
 </p>
